@@ -1,5 +1,4 @@
 # Hi there! 👋 
-# My name is Bramantyo Anandaru Suyadi
 
 ## 🚀 About Me
 I specialize in Python, SQL, and database languages that will allow me to create visualization, analysis, and prediction that can help businesses make the best decision. My background education that specializes in corporate finance, along with my technical skills listed below will help the analysis and prediction part.
