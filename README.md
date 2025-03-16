@@ -1,7 +1,8 @@
-# Hi there! 👋 I'm Bramantyo Anandaru Suyadi
+# Hi there! 👋 
+# My name is Bramantyo Anandaru Suyadi
 
 ## 🚀 About Me
-I'm a **data enthusiast** with a corporate finance background, leveraging data analytics and data engineering to drive business insights. I specialize in Python, SQL, and automation tools to create efficient data pipelines and predictive models. Passionate about transforming raw data into actionable insights, I bridge the gap between finance and technology.
+I specialize in Python, SQL, and database languages that will allow me to create visualization, analysis, and prediction that can help businesses make the best decision. My background education that specializes in corporate finance, along with my technical skills listed below will help the analysis and prediction part.
 
 ## 🔧 Technologies & Tools
 - **Programming**: Python (Pandas, NumPy, SQLAlchemy, FastAPI)
