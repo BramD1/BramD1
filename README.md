@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bramantyo Anandaru Suyadi
 
-<!--
-**BramD1/BramD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a **data enthusiast** with a corporate finance background, leveraging data analytics and data engineering to drive business insights. I specialize in Python, SQL, and automation tools to create efficient data pipelines and predictive models. Passionate about transforming raw data into actionable insights, I bridge the gap between finance and technology.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Programming**: Python (Pandas, NumPy, SQLAlchemy, FastAPI)
+- **Databases**: SQL (PostgreSQL, MySQL, BigQuery), NoSQL (MongoDB)
+- **Data Engineering**: Apache Airflow, ETL pipelines, Web Scraping
+- **Machine Learning**: Scikit-learn, TensorFlow (basics), Model Deployment
+- **Visualization**: Matplotlib, Seaborn, Power BI, Tableau
+- **Cloud & DevOps**: Google Cloud Platform (BigQuery, Storage), Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### You can see my projects below:
